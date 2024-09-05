@@ -1,0 +1,34 @@
+None
+Main Gate: Entry
+Main Gate: Exit
+Academic Building
+Administrative Building
+Benigno Aldana Gymnasium
+Alumni Building
+School Canteen
+Culture And Arts Building
+Dormitory
+Erasmus Building
+FIC Building
+Guard House
+L.I.S-High School
+L.I.S-Elementary
+Language Building: 1
+Language Building: 2
+Learning Resource Center
+Main Building
+MRF Building
+Nursing Building
+Old SSC Building
+Parking Lot
+Recto Building
+Registrar
+ROTC Building
+RSDC Building
+University Grounds
+Supply Office
+Near Erasmus And Academic Building
+Near Registrar, Cashier and Admin Building
+Near Parking Lot and Gymnasium
+Near Recto building and Gymnasium
+CAST Building
